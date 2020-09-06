@@ -14,4 +14,4 @@ The questions are:
 6. How many countries have the letters 'The' in the name?
 7. What was the total population of each continent in 2010?
 
-My answers to these questions can be seen in 'world_populations_ii_code' 
+My answers to these questions can be seen in 'code' file. 
